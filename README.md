@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<p> Hello World, we at WireThread have a critical mission: To everyone on the world's vast amount of constitutions, laws, cods and more. Whether the documents are hostorical, in effect or weren't even rattified, codified or established, so long as it's a certitifed document, we'll put it up here. </p>
 
 <!--
 **WireThreadOfficial/WireThreadOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
